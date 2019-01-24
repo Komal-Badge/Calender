@@ -1,0 +1,75 @@
+[
+    {
+        "date": "17 Jan, 2019",
+        "events": [
+            {
+                "id": "1",
+                "title": "ADD task",
+                "startTime": "9:00 AM",
+                "endTime": "10:00 AM"
+            },
+            {
+                "id": "2",
+                "title": "Done task",
+                "startTime": "3 AM",
+                "endTime": "5 AM"
+            }
+        ]
+    },
+    {
+        "date": "18 Jan, 2019",
+        "events": [
+            {
+                "id": "1",
+                "title": "Second task",
+                "startTime": "10:45 AM",
+                "endTime": "11:00 AM"
+            },
+            {
+                "id": "2",
+                "title": "ee task",
+                "startTime": "1:00 AM",
+                "endTime": "3:00 AM"
+            }
+        ]
+    },
+    {
+        "date": "19 Jan, 2019",
+        "events": [
+            {
+                "id": "1",
+                "title": "third2 task",
+                "startTime": "6:00 AM",
+                "endTime": "7:00 AM"
+            }
+        ]
+    },
+    {
+        "date": "20 Jan, 2019",
+        "events": [
+            {
+                "id": "1",
+                "title": "first task",
+                "startTime": "6:30 AM",
+                "endTime": "10:00 AM"
+            },
+            {
+                "id": "2",
+                "title": "Done1 task",
+                "startTime": "6:00 PM",
+                "endTime": "7:00 PM"
+            }
+        ]
+    },
+    {
+        "date": "21 Jan, 2019",
+        "events": [
+            {
+                "id": "1",
+                "title": "todays task",
+                "startTime": "1:30 AM",
+                "endTime": "2:30 AM"
+            }
+        ]
+    }
+]
